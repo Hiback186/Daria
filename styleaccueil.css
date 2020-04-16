@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  padding: 0;
+width:100%;
+font-family: Open Sans , sans-serif;
+}
+
+/*taille de logo*/
+
+.navbar-brand img{
+    width: 11%;
+}
+
+/*image de fond*/
+
+.carousel-item{
+  height:45vw;
+
+}
+
+/*3image*/
+img{
+  padding:10px;
+  border: 1px;
+  width: 33%;
+
+}
